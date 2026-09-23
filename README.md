@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**AbdulrahmanM98/AbdulrahmanM98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abdulrahman Al Ghamdi 👋
 
-Here are some ideas to get you started:
+### Information Systems | IT Operations | Business Analysis | Digital Transformation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Application Support Specialist with hands-on experience in IT operations, enterprise applications, and technology project delivery.
+
+Currently pursuing an Executive Master's in Management Information Systems & Digitalization, with a growing focus on business analysis, digital solutions, and process improvement.
+
+## Areas of Interest
+- Business & System Analysis
+- IT Operations & Service Management
+- Digital Transformation
+- IT Project Coordination
+- Data Analytics & Automation
+
+## Featured Projects
+Coming soon — projects covering system analysis, IT automation, data analytics, and digital solutions.
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/abdulrhman-ghamdi
