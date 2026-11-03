@@ -3,7 +3,7 @@
 
 ### Information Systems | IT Operations | Business Analysis | Digital Transformation
 
-I'm an Application Support Specialist with hands-on experience in IT operations, enterprise applications, and technology project delivery.
+I'm an Technical & Application Support Specialist with hands-on experience in IT operations, enterprise applications, and technology project delivery.
 
 Currently pursuing an Executive Master's in Information Systems Management & Digitalization, with a growing focus on business analysis, digital solutions, and process improvement.
 
